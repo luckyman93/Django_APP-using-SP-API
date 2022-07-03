@@ -1,0 +1,17 @@
+[2022-06-02 14:00:06.321] [exthost] [info] Extension host with pid 591133 started
+[2022-06-02 14:00:06.330] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3a85f1c2c231c504f3202b90b1c0adf2/vscode.lock': Lock acquired.
+[2022-06-02 14:00:06.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-02 14:00:06.441] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-02 14:00:06.470] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-02 14:00:06.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-02 14:00:06.653] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-02 14:00:06.826] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-02 14:00:06.843] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-02 14:00:06.848] [exthost] [info] Eager extensions activated
+[2022-06-02 14:01:18.710] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-02 14:01:36.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-02 14:01:36.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-02 14:01:36.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-02 14:15:58.479] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-02 14:15:58.480] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3a85f1c2c231c504f3202b90b1c0adf2/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-06-02 14:15:58.491] [exthost] [info] Extension host with pid 591133 exiting with code 0

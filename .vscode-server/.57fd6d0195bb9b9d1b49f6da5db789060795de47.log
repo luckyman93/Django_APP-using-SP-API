@@ -1,0 +1,23 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:35127 (IPv4)
+Extension host agent listening on 35127
+
+[21:26:12] Extension host agent started.
+[21:26:12] [127.0.0.1][713b6e40][ManagementConnection] New connection established.
+[21:26:12] [127.0.0.1][88adcabe][ExtensionHostConnection] New connection established.
+[21:26:12] [127.0.0.1][88adcabe][ExtensionHostConnection] <431356> Launched Extension Host Process.
+rejected promise not handled within 1 second: Error: Could not find pty on pty host
+stack trace: Error: Could not find pty on pty host,    at m._throwIfNoPty (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:20:5333),    at m.updateTitle (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:20:1673),    at Object.call (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:13:8361),    at g.onPromise (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:12:4879),    at g.onRawMessage (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:12:4267),    at /root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:12:3555,    at D.invoke (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:8:145),    at N.deliver (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:8:2271),    at h.fire (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:8:1849),    at process.p (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:6:34973),    at process.emit (node:events:390:28),    at emit (node:internal/child_process:917:12),    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[21:26:14] [Error: Could not find pty on pty host,    at m._throwIfNoPty (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:20:5333),    at m.updateTitle (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:20:1673),    at Object.call (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:13:8361),    at g.onPromise (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:12:4879),    at g.onRawMessage (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:12:4267),    at /root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:12:3555,    at D.invoke (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:8:145),    at N.deliver (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:8:2271),    at h.fire (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:8:1849),    at process.p (/root/.vscode-server/bin/57fd6d0195bb9b9d1b49f6da5db789060795de47/out/vs/platform/terminal/node/ptyHostMain.js:6:34973),    at process.emit (node:events:390:28),    at emit (node:internal/child_process:917:12),    at processTicksAndRejections (node:internal/process/task_queues:84:21)]
+[21:28:06] [127.0.0.1][713b6e40][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:28:06] [127.0.0.1][88adcabe][ExtensionHostConnection] <431356> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[21:28:06] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[21:33:06] Last EH closed, shutting down

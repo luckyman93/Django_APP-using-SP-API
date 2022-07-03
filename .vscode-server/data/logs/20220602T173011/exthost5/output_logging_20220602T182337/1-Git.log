@@ -1,0 +1,16 @@
+[2022-06-02T09:23:38.185Z] Validating found git in: git
+[2022-06-02T09:23:38.217Z] Using git 2.27.0 from git
+[2022-06-02T09:23:38.264Z] > git rev-parse --show-toplevel [35ms]
+[2022-06-02T09:23:38.273Z] > git rev-parse --git-dir --git-common-dir [0ms]
+[2022-06-02T09:23:38.279Z] Open repository: /root/aktool
+[2022-06-02T09:23:38.306Z] > git status -z -uall [21ms]
+[2022-06-02T09:23:38.312Z] > git symbolic-ref --short HEAD [2ms]
+[2022-06-02T09:23:38.318Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+[2022-06-02T09:23:38.325Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-06-02T09:23:38.325Z] > git remote --verbose [1ms]
+[2022-06-02T09:23:38.338Z] > git config --get commit.template [2ms]
+[2022-06-02T09:23:39.125Z] > git check-ignore -v -z --stdin [1ms]
+[2022-06-02T09:23:39.690Z] > git show --textconv :.gitignore [6ms]
+[2022-06-02T09:23:39.690Z] > git ls-files --stage -- /root/aktool/.gitignore [1ms]
+[2022-06-02T09:23:39.696Z] > git cat-file -s 5654688d2fbf438061f30c93b52841779de4f29c [2ms]
+[2022-06-02T09:23:40.833Z] > git check-ignore -v -z --stdin [1ms]

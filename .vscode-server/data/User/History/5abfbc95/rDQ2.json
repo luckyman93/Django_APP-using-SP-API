@@ -1,0 +1,7 @@
+{
+    "remote.SSH.remotePlatform": {
+        "django-gnunicorn-nginx": "linux",
+        "sakura_Ubuntu-Django": "linux",
+        "sakura_VPS_asin-jan": "linux"
+    }
+}

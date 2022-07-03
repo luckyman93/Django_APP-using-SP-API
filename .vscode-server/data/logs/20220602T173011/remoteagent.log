@@ -1,0 +1,66 @@
+[2022-06-02 17:30:11.737] [remoteagent] [info] Extension host agent started.
+[2022-06-02 17:30:12.009] [remoteagent] [info] [127.0.0.1][6c632a58][ManagementConnection] New connection established.
+[2022-06-02 17:30:12.101] [remoteagent] [info] [127.0.0.1][11412f0b][ExtensionHostConnection] New connection established.
+[2022-06-02 17:30:12.106] [remoteagent] [info] [127.0.0.1][11412f0b][ExtensionHostConnection] <594477> Launched Extension Host Process.
+[2022-06-02 17:30:14.425] [remoteagent] [error] ["Error: Could not find pty on pty host","    at m._throwIfNoPty (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:20:5333)","    at m.updateTitle (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:20:1673)","    at Object.call (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:13:8361)","    at g.onPromise (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:4879)","    at g.onRawMessage (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:4267)","    at /root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:3555","    at D.invoke (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:145)","    at N.deliver (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:2271)","    at h.fire (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:1849)","    at process.p (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:6:34973)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-06-02 17:30:30.674] [remoteagent] [info] [127.0.0.1][6c632a58][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-02 17:30:30.688] [remoteagent] [info] [127.0.0.1][11412f0b][ExtensionHostConnection] <594477> Extension Host Process exited with code: 0, signal: null.
+[2022-06-02 17:30:30.688] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-06-02 17:30:41.021] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-06-02 17:30:41.021] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-02 17:30:41.321] [remoteagent] [info] [127.0.0.1][c8d26765][ManagementConnection] New connection established.
+[2022-06-02 17:30:41.429] [remoteagent] [info] [127.0.0.1][928e0bd9][ExtensionHostConnection] New connection established.
+[2022-06-02 17:30:41.434] [remoteagent] [info] [127.0.0.1][928e0bd9][ExtensionHostConnection] <594670> Launched Extension Host Process.
+[2022-06-02 17:35:41.023] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-06-02 18:09:46.561] [remoteagent] [info] [127.0.0.1][c8d26765][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-02 18:09:46.577] [remoteagent] [info] [127.0.0.1][928e0bd9][ExtensionHostConnection] <594670> Extension Host Process exited with code: 0, signal: null.
+[2022-06-02 18:09:46.577] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-06-02 18:09:55.189] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-06-02 18:09:55.189] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-02 18:09:55.499] [remoteagent] [info] [127.0.0.1][75268daa][ManagementConnection] New connection established.
+[2022-06-02 18:09:55.614] [remoteagent] [info] [127.0.0.1][2beb7162][ExtensionHostConnection] New connection established.
+[2022-06-02 18:09:55.623] [remoteagent] [info] [127.0.0.1][2beb7162][ExtensionHostConnection] <595779> Launched Extension Host Process.
+[2022-06-02 18:09:57.833] [remoteagent] [error] ["Error: Could not find pty on pty host","    at m._throwIfNoPty (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:20:5333)","    at m.updateTitle (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:20:1673)","    at Object.call (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:13:8361)","    at g.onPromise (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:4879)","    at g.onRawMessage (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:4267)","    at /root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:3555","    at D.invoke (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:145)","    at N.deliver (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:2271)","    at h.fire (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:1849)","    at process.p (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:6:34973)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-06-02 18:10:02.555] [remoteagent] [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /)
+[2022-06-02 18:14:55.191] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-06-02 18:22:21.317] [remoteagent] [info] [127.0.0.1][75268daa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-02 18:22:21.338] [remoteagent] [info] [127.0.0.1][2beb7162][ExtensionHostConnection] <595779> Extension Host Process exited with code: 0, signal: null.
+[2022-06-02 18:22:21.338] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-06-02 18:22:52.358] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-06-02 18:22:52.358] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-02 18:22:52.662] [remoteagent] [info] [127.0.0.1][7a2efcbf][ManagementConnection] New connection established.
+[2022-06-02 18:22:52.794] [remoteagent] [info] [127.0.0.1][e8d918e0][ExtensionHostConnection] New connection established.
+[2022-06-02 18:22:52.809] [remoteagent] [info] [127.0.0.1][e8d918e0][ExtensionHostConnection] <596442> Launched Extension Host Process.
+[2022-06-02 18:23:24.064] [remoteagent] [info] [127.0.0.1][7a2efcbf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-02 18:23:24.075] [remoteagent] [info] [127.0.0.1][e8d918e0][ExtensionHostConnection] <596442> Extension Host Process exited with code: 0, signal: null.
+[2022-06-02 18:23:24.075] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-02 18:23:24.075] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-06-02 18:23:35.136] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-06-02 18:23:35.136] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-02 18:23:35.411] [remoteagent] [info] [127.0.0.1][8d8b49fa][ManagementConnection] New connection established.
+[2022-06-02 18:23:35.680] [remoteagent] [info] [127.0.0.1][15caa384][ExtensionHostConnection] New connection established.
+[2022-06-02 18:23:35.690] [remoteagent] [info] [127.0.0.1][15caa384][ExtensionHostConnection] <596653> Launched Extension Host Process.
+[2022-06-02 18:24:57.282] [remoteagent] [info] [127.0.0.1][8d8b49fa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-02 18:24:57.297] [remoteagent] [info] [127.0.0.1][15caa384][ExtensionHostConnection] <596653> Extension Host Process exited with code: 0, signal: null.
+[2022-06-02 18:24:57.297] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-02 18:24:57.297] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-06-02 18:25:07.482] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-06-02 18:25:07.482] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-02 18:25:07.776] [remoteagent] [info] [127.0.0.1][c786a62f][ManagementConnection] New connection established.
+[2022-06-02 18:25:07.973] [remoteagent] [info] [127.0.0.1][06128697][ExtensionHostConnection] New connection established.
+[2022-06-02 18:25:08.010] [remoteagent] [info] [127.0.0.1][06128697][ExtensionHostConnection] <596891> Launched Extension Host Process.
+[2022-06-02 18:28:44.642] [remoteagent] [info] [127.0.0.1][c786a62f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-02 18:28:44.655] [remoteagent] [info] [127.0.0.1][06128697][ExtensionHostConnection] <596891> Extension Host Process exited with code: 0, signal: null.
+[2022-06-02 18:28:44.655] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-02 18:28:44.655] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-06-02 18:28:54.316] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-06-02 18:28:54.316] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-02 18:28:54.648] [remoteagent] [info] [127.0.0.1][7f6efba1][ManagementConnection] New connection established.
+[2022-06-02 18:28:54.822] [remoteagent] [info] [127.0.0.1][6ea21906][ExtensionHostConnection] New connection established.
+[2022-06-02 18:28:54.843] [remoteagent] [info] [127.0.0.1][6ea21906][ExtensionHostConnection] <597238> Launched Extension Host Process.
+[2022-06-02 18:28:56.977] [remoteagent] [error] ["Error: Could not find pty on pty host","    at m._throwIfNoPty (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:20:5333)","    at m.updateTitle (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:20:1673)","    at Object.call (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:13:8361)","    at g.onPromise (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:4879)","    at g.onRawMessage (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:4267)","    at /root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:3555","    at D.invoke (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:145)","    at N.deliver (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:2271)","    at h.fire (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:1849)","    at process.p (/root/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:6:34973)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-06-02 18:33:54.317] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-06-02 19:23:29.034] [remoteagent] [info] [127.0.0.1][7f6efba1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-02 19:23:29.054] [remoteagent] [info] [127.0.0.1][6ea21906][ExtensionHostConnection] <597238> Extension Host Process exited with code: 0, signal: null.
+[2022-06-02 19:23:29.054] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-06-02 19:28:29.055] [remoteagent] [info] Last EH closed, shutting down

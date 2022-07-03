@@ -1,0 +1,7 @@
+[2022-06-02T09:28:56.167Z] Validating found git in: git
+[2022-06-02T09:28:56.200Z] Using git 2.27.0 from git
+[2022-06-02T09:28:56.231Z] > git rev-parse --show-toplevel [23ms]
+[2022-06-02T09:28:56.259Z] > git rev-parse --git-dir --git-common-dir [21ms]
+[2022-06-02T09:28:56.266Z] Open repository: /root
+[2022-06-02T09:28:56.420Z] > git status -z -uall [146ms]
+[2022-06-02T09:28:56.918Z] > git check-ignore -v -z --stdin [1ms]
