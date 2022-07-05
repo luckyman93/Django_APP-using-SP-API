@@ -1,0 +1,103 @@
+{
+   "payload":{
+      "Items":[
+         {
+            "Identifiers":{
+               "MarketplaceASIN":{
+                  "MarketplaceId":"A1VC38T7YXB528",
+                  "ASIN":"B079T6CHPV"
+               }
+            },
+            "AttributeSets":[
+               {
+                  "Platform":[
+                     "Nintendo Switch"
+                  ],
+                  "Binding":"Video Game",
+                  "Brand":"任天堂",
+                  "Genre":"ゲーム",
+                  "ItemDimensions":{
+                     "Height":{
+                        "value":13.779527545,
+                        "Units":"inches"
+                     },
+                     "Length":{
+                        "value":19.291338563,
+                        "Units":"inches"
+                     },
+                     "Width":{
+                        "value":2.755905509,
+                        "Units":"inches"
+                     },
+                     "Weight":{
+                        "value":5.2470018356,
+                        "Units":"pounds"
+                     }
+                  },
+                  "IsAdultProduct":false,
+                  "Label":"任天堂",
+                  "ListPrice":{
+                     "Amount":7678.0,
+                     "CurrencyCode":"JPY"
+                  },
+                  "Manufacturer":"任天堂",
+                  "Model":"HAC-R-ADFUA",
+                  "PackageDimensions":{
+                     "Height":{
+                        "value":2.5199999974296,
+                        "Units":"inches"
+                     },
+                     "Length":{
+                        "value":17.8699999817726,
+                        "Units":"inches"
+                     },
+                     "Width":{
+                        "value":13.5799999861484,
+                        "Units":"inches"
+                     },
+                     "Weight":{
+                        "value":5.31093589158,
+                        "Units":"pounds"
+                     }
+                  },
+                  "PackageQuantity":1,
+                  "PartNumber":"HAC-R-ADFUA",
+                  "PegiRating":"ages_3_and_over",
+                  "ProductGroup":"Video Games",
+                  "ProductTypeName":"PHYSICAL_VIDEO_GAME_SOFTWARE",
+                  "Publisher":"任天堂",
+                  "ReleaseDate":"2018-04-20",
+                  "Size":"1) Amazon.co.jp限定無し",
+                  "SmallImage":{
+                     "URL":"https://m.media-amazon.com/images/I/51l2xg5wiDL._SL75_.jpg",
+                     "Height":{
+                        "Units":"pixels",
+                        "value":75
+                     },
+                     "Width":{
+                        "Units":"pixels",
+                        "value":75
+                     }
+                  },
+                  "Studio":"任天堂",
+                  "Title":"Nintendo Labo (ニンテンドー ラボ) Toy-Con 01: Variety Kit - Switch"
+               }
+            ],
+            "Relationships":[
+               
+            ],
+            "SalesRankings":[
+               {
+                  "ProductCategoryId":"video_games_display_on_website",
+                  "Rank":834
+               },
+               {
+                  "ProductCategoryId":"4731378051",
+                  "Rank":209
+               }
+            ]
+         }
+      ]
+   }
+}
+
